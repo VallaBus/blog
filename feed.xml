@@ -3,7 +3,7 @@
     <title>VallaBus - Blog</title>
     <link href="https://blog.vallabus.com/feed.xml" rel="self" />
     <link href="https://blog.vallabus.com" />
-    <updated>2024-06-07T17:59:24+02:00</updated>
+    <updated>2024-06-07T18:17:49+02:00</updated>
     <author>
         <name>VallaBus</name>
     </author>
@@ -16,22 +16,26 @@
         </author>
         <link href="https://blog.vallabus.com/vallabus-un-soplo-de-aire-fresco-en-la-movilidad-urbana-de-valladolid-y-alrededores/"/>
         <id>https://blog.vallabus.com/vallabus-un-soplo-de-aire-fresco-en-la-movilidad-urbana-de-valladolid-y-alrededores/</id>
+        <media:content url="https://blog.vallabus.com/media/posts/1/Vallabus-Twitter-header.jpg" medium="image" />
 
         <updated>2024-06-07T12:55:06+02:00</updated>
             <summary>
                 <![CDATA[
-                    Introducción ¡Hola a todos y bienvenidos al blog oficial de VallaBus! Estamos&hellip;
+                        <img src="https://blog.vallabus.com/media/posts/1/Vallabus-Twitter-header.jpg" alt="" />
+                    <p>Estamos encantados de presentaros nuestra aplicación, diseñada para facilitar la vida de todos los que usamos el transporte público en Valladolid y alrededores, incluyendo lugares como Laguna de Duero o Arroyo de la Encomienda. VallaBus es un proyecto comunitario creado por voluntarios, utilizando datos y software libre. Este es nuestra primera publicación y queremos contaros un poco sobre nosotros, cómo empezó todo y por qué creemos que es algo realmente especial.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3>Introducción</h3>
+                    <p><img src="https://blog.vallabus.com/media/posts/1/Vallabus-Twitter-header.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Estamos encantados de presentaros nuestra aplicación, diseñada para facilitar la vida de todos los que usamos el transporte público en Valladolid y alrededores, incluyendo lugares como Laguna de Duero o Arroyo de la Encomienda. VallaBus es un proyecto comunitario creado por voluntarios, utilizando datos y software libre. Este es nuestra primera publicación y queremos contaros un poco sobre nosotros, cómo empezó todo y por qué creemos que es algo realmente especial.</p>
+
 <p>¡Hola a todos y bienvenidos al blog oficial de <a href="https://vallabus.com" title="Acceso a la app">VallaBus</a>!</p>
-<p>Estamos ilusionados por presentaros nuestra aplicación, diseñada para facilitar la vida de todos los que usamos el transporte público en Valladolid y alrededores, incluyendo lugares como Laguna de Duero o Arroyo de la Encomienda. VallaBus es un proyecto comunitario creado por voluntarios, utilizando datos y software libre. Este es nuestra primera publicación y queremos contaros un poco sobre nosotros, cómo empezó todo y por qué creemos que es algo realmente especial.</p>
 <h3>El origen de VallaBus</h3>
 <p>Todo comenzó cuando nuestro desarrollador principal, frustrado por no encontrar información rápida y precisa sobre los autobuses, decidió crear una solución. Así nació VallaBus, una aplicación hecha por y para usuarios del transporte público. Queríamos hacer algo sencillo pero efectivo, para que cualquiera pudiera saber cuándo llega su bus sin tener que navegar por mil pantallas.</p>
 <blockquote>
-<p>"Me cansé de perder el bus y llegar tarde por no tener información precisa sobre las líneas que más uso. VallaBus nació de esa frustración y del deseo de mejorar también la vida de los demás" – Rubén, desarrollador principal de VallaBus.</p>
+<p>"Me cansé de perder el bus y llegar tarde por no tener información rápida y precisa sobre las líneas que más uso. VallaBus nació de esa frustración y del deseo de mejorar también la vida de otros usuarios del bus en Valladolid" – Rubén, desarrollador principal de VallaBus.</p>
 </blockquote>
 <p>La aplicación ha crecido gracias al boca a boca y a las redes sociales. Cada día mejoramos gracias a las sugerencias y aportaciones de nuestra comunidad que aportan ideas útiles y novedosas.</p>
 <h3>¿Por qué VallaBus?</h3>
@@ -42,7 +46,7 @@
 <li><strong>Visualización en tiempo real:</strong> Ve dónde están los autobuses en un mapa en tiempo real.</li>
 <li><strong>Compromiso con el software libre y datos abiertos:</strong> Liberamos datos de paradas, horarios y rutas para que cualquiera pueda usarlos y mejorar la movilidad en nuestra zona.</li>
 </ul>
-<h3><figure class="post__image align-center"><img loading="lazy"  src="https://blog.vallabus.com/media/posts/1/screen.jpg" alt="Pantalla principal de VallaBus" width="373" height="745" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://blog.vallabus.com/media/posts/1/responsive/screen-xs.jpg 320w ,https://blog.vallabus.com/media/posts/1/responsive/screen-sm.jpg 480w ,https://blog.vallabus.com/media/posts/1/responsive/screen-md.jpg 768w ,https://blog.vallabus.com/media/posts/1/responsive/screen-xl.jpg 1024w"></figure></h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.vallabus.com/media/posts/1/screen.jpg" alt="Pantalla principal de VallaBus" width="373" height="745" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://blog.vallabus.com/media/posts/1/responsive/screen-xs.jpg 320w ,https://blog.vallabus.com/media/posts/1/responsive/screen-sm.jpg 480w ,https://blog.vallabus.com/media/posts/1/responsive/screen-md.jpg 768w ,https://blog.vallabus.com/media/posts/1/responsive/screen-xl.jpg 1024w"></figure>
 <h3>Logros y comunidad</h3>
 <p>Desde que empezamos, VallaBus ha mejorado mucho la vida de nuestros usuarios, quienes nos dicen lo útil que les resulta la aplicación.</p>
 <blockquote>
