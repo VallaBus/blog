@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>VallaBus - Blog</title>
+    <link href="https://blog.vallabus.com/feed.xml" rel="self" />
+    <link href="https://blog.vallabus.com" />
+    <updated>2024-06-07T13:35:34+02:00</updated>
+    <author>
+        <name>VallaBus</name>
+    </author>
+    <id>https://blog.vallabus.com</id>
+
+    <entry>
+        <title>VallaBus, un soplo de aire fresco en la movilidad urbana de Valladolid y alrededores</title>
+        <author>
+            <name>VallaBus</name>
+        </author>
+        <link href="https://blog.vallabus.com/vallabus-un-soplo-de-aire-fresco-en-la-movilidad-urbana-de-valladolid-y-alrededores/"/>
+        <id>https://blog.vallabus.com/vallabus-un-soplo-de-aire-fresco-en-la-movilidad-urbana-de-valladolid-y-alrededores/</id>
+
+        <updated>2024-06-07T12:55:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    TBD
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>TBD</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

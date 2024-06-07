@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "VallaBus - Blog",
+    "description": "",
+    "home_page_url": "https://blog.vallabus.com",
+    "feed_url": "https://blog.vallabus.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "VallaBus"
+    },
+    "items": [
+        {
+            "id": "https://blog.vallabus.com/vallabus-un-soplo-de-aire-fresco-en-la-movilidad-urbana-de-valladolid-y-alrededores/",
+            "url": "https://blog.vallabus.com/vallabus-un-soplo-de-aire-fresco-en-la-movilidad-urbana-de-valladolid-y-alrededores/",
+            "title": "VallaBus, un soplo de aire fresco en la movilidad urbana de Valladolid y alrededores",
+            "summary": "TBD",
+            "content_html": "<p>TBD</p>",
+            "author": {
+                "name": "VallaBus"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-07T12:55:06+02:00",
+            "date_modified": "2024-06-07T13:35:34+02:00"
+        }
+    ]
+}
