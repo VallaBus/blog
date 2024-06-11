@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://blog.vallabus.com/renovamos-marca-mirando-hacia-el-futuro/",
+            "url": "https://blog.vallabus.com/renovamos-marca-mirando-hacia-el-futuro/",
+            "title": "Renovamos marca mirando hacia el futuro",
+            "summary": "<p>Hoy nos alegra compartir una noticia muy especial con nuestra comunidad: la renovación de nuestra marca.</p>\n",
+            "content_html": "<p>Hoy nos alegra compartir una noticia muy especial con nuestra comunidad: la renovación de nuestra marca.</p>\n\n<p>En <a href=\"https://vallabus.com\">VallaBus</a>, creemos que el logo es más que un simple diseño; es la cara de nuestra marca, el símbolo de nuestros valores y nuestra misión. Por eso, nos enorgullece presentar nuestro nuevo logo.</p>\n<h3>Un nuevo logo, la misma esencia</h3>\n<p class=\"align-left\">El objetivo principal de esta renovación ha sido mantener la esencia de VallaBus, adaptándola a los tiempos actuales. Queríamos un diseño que reflejara modernización, claridad y versatilidad, y <a href=\"https://www.instagram.com/paabloalvarez_/\">Pablo Álvarez</a>, miembro de <a href=\"https://t.me/vallabusapp\">nuestra comunidad</a>, ha logrado exactamente eso con su propuesta minimalista. Este nuevo logo no solo facilita el reconocimiento por parte de nuestros usuarios, sino que también refuerza nuestro compromiso constante en ser innovadores en soluciones de movilidad en Valladolid.</p>\n<figure class=\"post__image post__image--center\"><br><img loading=\"lazy\"  style=\"outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;\" src=\"https://blog.vallabus.com/media/posts/2/favicon.png\" alt=\"\" width=\"146\" height=\"146\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://blog.vallabus.com/media/posts/2/responsive/favicon-xs.png 320w ,https://blog.vallabus.com/media/posts/2/responsive/favicon-sm.png 480w ,https://blog.vallabus.com/media/posts/2/responsive/favicon-md.png 768w ,https://blog.vallabus.com/media/posts/2/responsive/favicon-xl.png 1024w\"></figure>\n<p>La renovación de la marca es un paso más hacia el futuro de VallaBus. Con este nuevo logo y una imagen renovada, estamos listos para seguir siendo la app de referencia en movilidad de Valladolid y alrededores, siempre con el apoyo y la colaboración de nuestra increíble comunidad.</p>\n<blockquote>\n<p><strong>Vayas donde vayas, Vallabus</strong></p>\n</blockquote>\n<p>Síguenos en nuestras redes sociales:</p>\n<ul>\n<li>En <a href=\"https://www.instagram.com/vallabusapp/\">Instagram</a></li>\n<li>En <a href=\"https://x.com/vallabusapp\">Twitter</a></li>\n<li>En <a href=\"https://whatsapp.com/channel/0029VacJrldIHphBU41MLM25\">WhatsApp</a></li>\n<li>En <a href=\"https://www.tiktok.com/@vallabusapp\">TikTok</a></li>\n</ul>",
+            "image": "https://blog.vallabus.com/media/posts/2/banner-logo.png",
+            "author": {
+                "name": "VallaBus"
+            },
+            "tags": [
+                   "marca",
+                   "logo",
+                   "actualizaciones"
+            ],
+            "date_published": "2024-06-12T00:08:57+02:00",
+            "date_modified": "2024-06-12T00:22:35+02:00"
+        },
+        {
             "id": "https://blog.vallabus.com/vallabus-un-soplo-de-aire-fresco-en-la-movilidad-urbana-de-valladolid-y-alrededores/",
             "url": "https://blog.vallabus.com/vallabus-un-soplo-de-aire-fresco-en-la-movilidad-urbana-de-valladolid-y-alrededores/",
             "title": "VallaBus, un soplo de aire fresco en la movilidad urbana de Valladolid y alrededores",
