@@ -3,7 +3,7 @@
     <title>VallaBus - Blog</title>
     <link href="https://blog.vallabus.com/feed.xml" rel="self" />
     <link href="https://blog.vallabus.com" />
-    <updated>2024-07-02T18:50:03+02:00</updated>
+    <updated>2024-07-02T19:07:07+02:00</updated>
     <author>
         <name>VallaBus</name>
     </author>
@@ -45,7 +45,7 @@
 <li><strong>Clic para ver el bus en el mapa:</strong> Ahora puedes desplegar el mapa en tiempo real simplemente tocando sobre la línea que desees.</li>
 <li><strong>Iconos de alertas y ocupación más accesibles:</strong> Con un tamaño mayor y una separación adecuada para facilitar el clic en dispositivos móviles de diversos tamaños.</li>
 </ul>
-<figure class="post__video"><video loading="lazy" width="700" height="348" style="width: 697px; height: 347px;" controls="controls" data-mce-fragment="1">
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
 <source src="https://vallabus.com/img/overlays/nueva-ui.mp4" type="video/mp4" /></video></figure>
 <h3>Nuestro compromiso</h3>
 <p>Este proceso ha reforzado nuestro compromiso con la mejora continua y la escucha activa. Somos un proyecto creado por y para usuarios del bus, lo que nos permite ofrecer soluciones reales a los problemas y necesidades diarias de nuestros transportes urbanos e interurbanos.</p>
