@@ -3,7 +3,7 @@
     <title>VallaBus - Blog</title>
     <link href="https://blog.vallabus.com/feed.xml" rel="self" />
     <link href="https://blog.vallabus.com" />
-    <updated>2024-07-02T18:46:15+02:00</updated>
+    <updated>2024-07-02T18:50:03+02:00</updated>
     <author>
         <name>VallaBus</name>
     </author>
@@ -23,13 +23,16 @@
             <summary>
                 <![CDATA[
                         <img src="https://blog.vallabus.com/media/posts/3/nueva-interfaz-parada.png" alt="" />
-                    Desde que iniciamos VallaBus, el proyecto ha crecido gracias a la participación&hellip;
+                    <p>Recientemente hemos realizado una mejora notable a la interfaz de nuestra aplicación, te explicamos un poco más los motivos de estos cambios.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://blog.vallabus.com/media/posts/3/nueva-interfaz-parada.png" class="type:primaryImage" alt="" /></p>
-                <p>Desde que iniciamos <a href="https://vallabus.com">VallaBus</a>, el proyecto ha crecido gracias a la participación activa de la comunidad de voluntarios, todos ellos usuarios habituales o esporádicos de los servicios de transporte urbano en Valladolid y alrededores.</p>
+                <p>Recientemente hemos realizado una mejora notable a la interfaz de nuestra aplicación, te explicamos un poco más los motivos de estos cambios.</p>
+
+<p>Desde que iniciamos <a href="https://vallabus.com">VallaBus</a>, el proyecto ha crecido gracias a la participación activa de la comunidad de voluntarios, todos ellos usuarios habituales o esporádicos de los servicios de transporte urbano en Valladolid y alrededores.</p>
 <p>Uno de los puntos que queríamos mejorar desde hace tiempo era la accesibilidad de la aplicación para todo tipo de públicos. En las pruebas con usuarios, nos dimos cuenta de que algunos consideraban que había demasiada información en pantalla, lo cual podía suponer un reto para comprender.</p>
 <p>Por ello, nos pusimos manos a la obra y analizamos toda la información que ofrecíamos y toda la que los usuarios esperaban ver, aplicando las prácticas más avanzadas en experiencia de usuario.</p>
 <h3>Resultados de la renovación</h3>
