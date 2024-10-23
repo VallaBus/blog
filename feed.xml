@@ -3,7 +3,7 @@
     <title>VallaBus - Blog</title>
     <link href="https://blog.vallabus.com/feed.xml" rel="self" />
     <link href="https://blog.vallabus.com" />
-    <updated>2024-10-23T14:12:40+02:00</updated>
+    <updated>2024-10-23T14:14:29+02:00</updated>
     <author>
         <name>VallaBus</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://blog.vallabus.com/destinos-rapidos-ahorra-tiempo-y-simplifica-tus-viajes/"/>
         <id>https://blog.vallabus.com/destinos-rapidos-ahorra-tiempo-y-simplifica-tus-viajes/</id>
+        <media:content url="https://blog.vallabus.com/media/posts/5/destinos-rapidos-2.png" medium="image" />
 
         <updated>2024-10-23T14:10:10+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.vallabus.com/media/posts/5/destinos-rapidos-2.png" alt="" />
                     En VallaBus, estamos comprometidos a ofrecerte la mejor experiencia de movilidad urbana,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.vallabus.com/media/posts/5/destinos-rapidos-2.png" class="type:primaryImage" alt="" /></p>
                 <p>En <a href="https://vallabus.com">VallaBus</a>, estamos comprometidos a ofrecerte la mejor experiencia de movilidad urbana, haciendo que tus desplazamientos por Valladolid y alrededores sean rápidos, eficientes y sin complicaciones. Hoy, nos complace anunciar una nueva función que hará que tus viajes diarios sean más sencillos: <strong>¡la barra de destinos rápidos!</strong></p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.vallabus.com/media/posts/5/destinos-rapidos.png" alt="" width="553" height="553" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://blog.vallabus.com/media/posts/5/responsive/destinos-rapidos-xs.png 320w ,https://blog.vallabus.com/media/posts/5/responsive/destinos-rapidos-sm.png 480w ,https://blog.vallabus.com/media/posts/5/responsive/destinos-rapidos-md.png 768w ,https://blog.vallabus.com/media/posts/5/responsive/destinos-rapidos-xl.png 1024w"></figure>
 <h3><strong>Accede a tus destinos frecuentes en un clic</strong></h3>
