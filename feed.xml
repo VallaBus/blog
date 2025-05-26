@@ -3,7 +3,7 @@
     <title>VallaBus - Blog</title>
     <link href="https://blog.vallabus.com/feed.xml" rel="self" />
     <link href="https://blog.vallabus.com" />
-    <updated>2025-05-26T21:07:38+02:00</updated>
+    <updated>2025-05-26T21:12:31+02:00</updated>
     <author>
         <name>VallaBus</name>
     </author>
@@ -34,7 +34,7 @@
 <p><video loading="lazy" width="440" height="627" style="width: 440px; height: 627px;" controls="controls" poster="https://blog.vallabus.com/media/posts/7/captura1-2.jpg">
   <source src="/media/files/guia-vallabus.mp4" type="video/mp4" /></video></p>
 <h3 class="ng-star-inserted"><span class="ng-star-inserted">Más allá de lo que conoces: inteligencia real para tu ciudad</span></h3>
-<p class="ng-star-inserted"><span class="ng-star-inserted">Mientras que otras aplicaciones o asistentes genéricos te dan respuestas predefinidas o información limitada, Guía VallaBus va un paso más allá. No es un "asistente acorsetado", sino un sistema inteligente capaz de:</span></p>
+<p class="ng-star-inserted"><span class="ng-star-inserted">Mientras que otras aplicaciones o asistentes genéricos te dan respuestas predefinidas o información limitada, Guía VallaBus va un paso más allá. No es un "asistente encorsetado", sino un sistema inteligente capaz de:</span></p>
 <ul class="ng-star-inserted">
 <li class="ng-star-inserted">
 <p class="ng-star-inserted"><strong class="ng-star-inserted"><span class="ng-star-inserted">Entender tu lenguaje natural:</span></strong><span class="ng-star-inserted"> Puedes preguntarle como si hablaras con cualquier persona y él te comprenderá. Se acabaron las palabras clave o comandos específicos.</span></p>
@@ -71,7 +71,17 @@
 <h3 class="ng-star-inserted"><span class="ng-star-inserted">Tu voz cuenta: ayúdanos a mejorar</span></h3>
 <p class="ng-star-inserted"><span class="ng-star-inserted">Tu feedback es fundamental para nosotros. ¿Qué te gustaría que hiciera Guía VallaBus? ¿Has encontrado algo que mejorar? Compártenos tu opinión a través del formulario dentro del asistente o únete a nuestra vibrante </span><a _ngcontent-ng-c2459883256="" target="_blank" href="https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Ft.me%2Fvallabusapp" class="ng-star-inserted" rel="noopener"><span class="ng-star-inserted">comunidad de VallaBus en Telegram</span></a><span class="ng-star-inserted">. ¡Juntos lo haremos aún mejor!</span></p>
 <hr class="ng-star-inserted">
-<p class="ng-star-inserted"><strong class="ng-star-inserted"><span class="ng-star-inserted">¡No te quedes atrás!</span></strong><span class="ng-star-inserted"> Sé parte de esta revolución. Prueba Guía VallaBus y ayúdanos a hacer del transporte público en Valladolid un espacio </span><strong class="ng-star-inserted"><span class="ng-star-inserted">más inteligente, más cercano y verdaderamente accesible para todos.</span></strong><span class="ng-star-inserted"> 🚍✨</span></p>
+<p class="ng-star-inserted"><strong class="ng-star-inserted"><span class="ng-star-inserted">¡No te quedes atrás!</span></strong><span class="ng-star-inserted"> Sé parte de esta revolución. Prueba <a href="https://guia.vallabus.com">Guía VallaBus</a> y ayúdanos a hacer del transporte público en Valladolid un espacio </span><strong class="ng-star-inserted"><span class="ng-star-inserted">más inteligente, más cercano y verdaderamente accesible para todos.</span></strong><span class="ng-star-inserted"> 🚍✨</span></p>
+<p><strong>Síguenos en nuestras redes sociales y compártenos</strong> con tus conocidos:</p>
+<ul>
+<li>En <a href="https://www.instagram.com/vallabusapp/">Instagram</a></li>
+<li>En <a href="https://bsky.app/profile/vallabus.com">BlueSky</a></li>
+<li>En <a href="https://whatsapp.com/channel/0029VacJrldIHphBU41MLM25">WhatsApp</a></li>
+<li>En <a href="https://www.tiktok.com/@vallabusapp">TikTok</a></li>
+<li>En <a href="https://www.facebook.com/profile.php?id=61561026144737">Facebook</a></li>
+<li>En <a href="https://x.com/vallabusapp">Twitter</a> (iremos bajando la presencia)</li>
+<li><a href="https://t.me/vallabusapp">Nuestra comunidad en Telegram</a></li>
+</ul>
             ]]>
         </content>
     </entry>
